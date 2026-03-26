@@ -1,0 +1,33 @@
+{
+  "version": 5,
+  "timestamp": 1774504141986,
+  "appVersion": "2.0.0 (2026.03.23)",
+  "tables": [
+    "characters",
+    "worldBooks",
+    "globalSettings",
+    "stickers",
+    "kaomojis",
+    "users",
+    "userState",
+    "userPosts",
+    "chatSettings",
+    "messages",
+    "memory",
+    "callLogs",
+    "roleStickers",
+    "tmSessions",
+    "tmStories",
+    "customNoises",
+    "flashMoments",
+    "groupSettings",
+    "userLinks",
+    "userMessages",
+    "ttsAudio",
+    "forumData",
+    "calendarData",
+    "groupChats",
+    "xinsheng",
+    "_migration"
+  ]
+}
